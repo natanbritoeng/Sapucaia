@@ -1,4 +1,4 @@
-## 📝 Sobre o Projeto
+## Sobre o Projeto
 
 Este repositório contém os scripts, dados auxiliares e documentação relacionados à pesquisa:
 
