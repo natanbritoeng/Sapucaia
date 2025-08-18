@@ -2,7 +2,7 @@
 
 Este repositório contém os scripts, dados auxiliares e documentação relacionados à pesquisa:
 
-**"Localização de Espécies Florestais Utilizando Técnicas de Geoprocessamento: Detecção Automatizada de *Lecythis pisonis* na Mata Atlântica, um Caso no Sul da Bahia."**  
+**"DISTRIBUIÇÃO ESPACIAL DE LECYTHIS PISONIS EM FRAGMENTOS FLORESTAIS DE MATA ATLÂNTICA, BAHIA BRASIL"**  
 Autor: **Natan Brito Santos**  
 Programa de Pós-Graduação em Ciências e Sustentabilidade - Universidade Federal do Sul da Bahia (UFSB)  
 Ano: **2025**
