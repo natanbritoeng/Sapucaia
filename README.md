@@ -2,7 +2,7 @@
 
 Este repositório contém os scripts, dados auxiliares e documentação relacionados à pesquisa:
 
-**"DISTRIBUIÇÃO ESPACIAL DE LECYTHIS PISONIS EM FRAGMENTOS FLORESTAIS DE MATA ATLÂNTICA, BAHIA BRASIL"**  
+**"Sensoriamento Remoto e Aprendizado de Máquina na Identificação de Lecythis pisonis em Fragmentos Florestais da Mata Atlântica, Sul da Bahia"**  
 Autor: **Natan Brito Santos**  
 Programa de Pós-Graduação em Ciências e Sustentabilidade - Universidade Federal do Sul da Bahia (UFSB)  
 Ano: **2025**
